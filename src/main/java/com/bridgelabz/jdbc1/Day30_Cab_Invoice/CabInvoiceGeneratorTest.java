@@ -3,7 +3,7 @@ package com.bridgelabz.jdbc1.Day30_Cab_Invoice;
 import org.junit.Assert;
 import org.junit.Test;
 
-public class Cab_nvoiceGeneratorTest {
+public class CabInvoiceGeneratorTest {
 	@Test
 	public void CalculateFareTest() {
 		CabInvoiceGenerator obj = new CabInvoiceGenerator();
